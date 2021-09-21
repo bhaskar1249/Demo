@@ -12,4 +12,6 @@ CR1: modifies
 
 Change: FOR STASH FEATURE CHECK  WI5
 
-Change: CR2 for pull check
+Change: CR2 for pull check!
+
+Change: WI8 by teammate on remote master
