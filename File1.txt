@@ -1,1 +1,2 @@
 Welcome to git Hello
+to fix bug1
